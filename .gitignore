@@ -1,0 +1,7 @@
+.vscode
+.idea 
+.venv
+src/__pycache__
+src/test.py
+src/config.yaml
+logs

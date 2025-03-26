@@ -1,0 +1,15 @@
+# This is an example of the config. Fill in your data and rename it to "config.yaml"
+
+# Data for the account the bot will be hosted on.
+username:
+password: 
+
+# Data of the reddit app.
+client_id:
+client_secret:
+
+# This is used to make the User-Agent.
+main_acc: # Name of your main Reddit account (without "/u/"!!).
+version:
+name: # Registered name of the Reddit app.
+additional_info: "" # Gets added at the end of the User-Agent string.
